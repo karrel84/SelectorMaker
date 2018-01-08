@@ -11,4 +11,4 @@
 4. 해당 프로젝트의 selector폴더를 갱신하면 selector로 시작하는 xml파일들이 생성됩니다.
 
 # 스크린샷
-![Screenshot](https://github.com/karrel84/SelectorMake/screenshot.png?raw=true)
+![Screenshot](https://github.com/karrel84/SelectorMaker/blob/master/screenshot.png?raw=true)
