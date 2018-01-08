@@ -13,6 +13,3 @@ selector를 하나하나 만들어주기가 시간이 너무 오래 걸려서 �
 
 # 스크린샷
 ![Screenshot](https://github.com/karrel84/SelectorMaker/blob/master/screenshot.png?raw=true)
-
-<table width="70%">
-<img src="https://github.com/karrel84/SelectorMaker/blob/master/screenshot.png"></table>
